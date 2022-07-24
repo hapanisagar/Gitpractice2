@@ -6,7 +6,7 @@ public class github2 {
         boolean b= false;
         System.out.println("a="+a);
         int A=20;
-        int B=10;
+        int B=15;
         System.out.println("A+B="+(A+B));
     }
 }
